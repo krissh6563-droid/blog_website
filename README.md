@@ -1,4 +1,4 @@
-# blog_website
+# Blog Website
 Title: Building Dynamic Blog Websites with Django: A Comprehensive Guide
 
 Description:
