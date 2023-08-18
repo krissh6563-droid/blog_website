@@ -1,12 +1,12 @@
 # Blog Website
-Title: Building Dynamic Blog Websites with Django: A Comprehensive Guide
+#Title: Building Dynamic Blog Websites with Django: A Comprehensive Guide
 
-Description:
+#Description:
 Unlock the power of Django, one of the most popular and robust Python web frameworks, by creating your very own dynamic blog website. In this step-by-step guide, you'll embark on a journey to develop a fully functional and aesthetically appealing blog platform using the Django framework.
 
 From setting up your development environment to deploying your finished website, this comprehensive tutorial covers every essential aspect of creating a blog website. You'll learn how to design a user-friendly interface, implement user authentication and authorization, manage blog posts, handle comments, and much more.
 
-Key Highlights:
+#Key Highlights:
 - **Django Fundamentals:** Begin by understanding the core concepts of Django, including models, views, templates, and URL routing, that lay the foundation for your blog website.
 
 - **Database Design:** Learn how to design and create the database models necessary for storing blog posts, user information, comments, and other essential data.
